@@ -1,0 +1,15 @@
+C:\Users\ALUMNOS\Documents\SharpDevelop Projects\practica\practica\bin\Debug\practica.exe
+C:\Users\ALUMNOS\Documents\SharpDevelop Projects\practica\practica\bin\Debug\practica.pdb
+C:\Users\ALUMNOS\Documents\SharpDevelop Projects\practica\practica\obj\Debug\practica.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\SharpDevelop Projects\practica\practica\obj\Debug\practica.exe
+C:\Users\ALUMNOS\Documents\SharpDevelop Projects\practica\practica\obj\Debug\practica.pdb
+C:\Users\ALUMNOS\Documents\GitHub\prctica3\practica\bin\Debug\practica.exe
+C:\Users\ALUMNOS\Documents\GitHub\prctica3\practica\bin\Debug\practica.pdb
+C:\Users\ALUMNOS\Documents\GitHub\prctica3\practica\obj\Debug\practica.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\GitHub\prctica3\practica\obj\Debug\practica.exe
+C:\Users\ALUMNOS\Documents\GitHub\prctica3\practica\obj\Debug\practica.pdb
+C:\Users\ALUMNOS\Documents\GitHub\prctica-3\prctica3\practica\bin\Debug\practica.exe
+C:\Users\ALUMNOS\Documents\GitHub\prctica-3\prctica3\practica\bin\Debug\practica.pdb
+C:\Users\ALUMNOS\Documents\GitHub\prctica-3\prctica3\practica\obj\Debug\practica.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOS\Documents\GitHub\prctica-3\prctica3\practica\obj\Debug\practica.exe
+C:\Users\ALUMNOS\Documents\GitHub\prctica-3\prctica3\practica\obj\Debug\practica.pdb
